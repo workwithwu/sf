@@ -12,7 +12,7 @@ function add_custom_billing_fields_and_shipping_address() {
             <label for="shipping-address">順豐智能櫃的所在地區：</label>
             <select id="shipping-address" name="shipping-address">
                 <option value="">-- 請選擇 --</option>
-				        <option value="hk">香港島</option>
+		<option value="hk">香港島</option>
                 <option value="kw">九龍</option>
                 <option value="nt">新界</option>
             </select>
